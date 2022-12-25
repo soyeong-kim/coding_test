@@ -1,8 +1,9 @@
 # 완주하지 못한 선수
-```
+'''
 participant=["leo", "kiki", "eden"]
 completion=["eden", "kiki"]
-```
+answer="leo"
+'''
 def solution(participant, completion):
     participant.sort()
     completion.sort()
