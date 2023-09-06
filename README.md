@@ -1,6 +1,6 @@
 # coding test
 ```
-📌 코딩 테스트 공부 및 알고리즘 정리 파일 
+📌 코딩테스트 공부 및 알고리즘 개념 정리
 ```
 ## [python] programmers : 코딩테스트 고득점 Kit 문제 풀이
 1. 해시 [*[해시]*](https://github.com/soyeong-kim/coding_test/blob/main/programmers/programmers_hash.ipynb)
